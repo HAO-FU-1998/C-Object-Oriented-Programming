@@ -1,2 +1,4 @@
-# CPP-Object-Oriented-Programming
- C++ object-oriented programming
+# C++ Object-Oriented Programming
+## Tianjin University
+### Hao Fu
+#### 3016218083@tju.edu.cn
