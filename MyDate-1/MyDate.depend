@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1489592038 source:c:\users\郭\desktop\大一下\mydate\mydate.cpp
+	"MyDate.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1490157389 c:\users\郭\desktop\大一下\mydate\mydate.h
+	<iostream>
+	<string>
+
+1489410873 source:c:\users\郭\desktop\c++作业\mydate要求\main.cpp
+	<iostream>
+	"MyDate.h"
+
+1489410872 c:\users\郭\desktop\c++作业\mydate要求\mydate.h
+	<iostream>
+
+1489592038 source:c:\users\郭\desktop\大一下\mydate\main.cpp
+	<iostream>
+	"MyDate.h"
+
+1489587853 source:c:\users\郭\desktop\大一下\mydate\main1.cpp
+	<iostream>
+	<string>
+	"MyDate.h"
+
+1490863073 source:c:\users\郭\desktop\大一下\mydate-1\main.cpp
+	<iostream>
+	"MyDate.h"
+
+1491468976 c:\users\郭\desktop\大一下\mydate-1\mydate.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1491740936 source:c:\users\郭\desktop\大一下\mydate-1\mydate.cpp
+	"MyDate.h"
+	<iostream>
+	<string>
+	<cmath>
+	<stdexcept>
+
+1491741143 source:c:\users\apple\desktop\mydate-1\main.cpp
+	<iostream>
+	"MyDate.h"
+
+1491468976 c:\users\apple\desktop\mydate-1\mydate.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1491740936 source:c:\users\apple\desktop\mydate-1\mydate.cpp
+	"MyDate.h"
+	<iostream>
+	<string>
+	<cmath>
+	<stdexcept>
+

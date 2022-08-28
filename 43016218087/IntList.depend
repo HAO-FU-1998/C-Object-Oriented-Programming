@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1490453720 source:c:\users\lxp\desktop\43016218087\main.cpp
+	<iostream>
+	<fstream>
+	"IntList.h"
+
+1490157566 c:\users\lxp\desktop\43016218087\intlist.h
+
+1490455949 source:c:\users\lxp\desktop\43016218087\intlist.cpp
+	<iostream>
+	<stdio.h>
+	"IntList.h"
+
+1490497872 source:c:\users\lxp\desktop\43016218087dva\intlist.cpp
+	<iostream>
+	<stdio.h>
+	"IntList.h"
+
+1490497596 c:\users\lxp\desktop\43016218087dva\intlist.h
+
+1490497845 source:c:\users\lxp\desktop\43016218087dva\main.cpp
+	<iostream>
+	<fstream>
+	"IntList.h"
+
+1490497900 source:c:\users\lenovo\desktop\43016218087dva\main.cpp
+	<iostream>
+	<fstream>
+	"IntList.h"
+
+1490497598 c:\users\lenovo\desktop\43016218087dva\intlist.h
+
+1490539708 source:c:\users\lenovo\desktop\43016218087dva\intlist.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<algorithm>
+	"IntList.h"
+

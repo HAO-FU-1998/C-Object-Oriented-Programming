@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490862682 source:c:\users\apple\desktop\89413498757643534658\main.cpp
+	<iostream>
+	"Complex.h"
+	<iomanip>
+	"stdlib.h"
+
+1490805650 c:\users\apple\desktop\89413498757643534658\complex.h
+	<iostream>
+

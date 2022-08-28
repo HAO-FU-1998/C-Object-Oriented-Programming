@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1490869526 source:c:\users\lenovo\desktop\63016218087\complex.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<cmath>
+	<cstdlib>
+	"Complex.h"
+
+1491399486 c:\users\lenovo\desktop\63016218087\complex.h
+	"Number.h"
+	<iostream>
+
+1491397532 c:\users\lenovo\desktop\63016218087\number.h
+	<iostream>
+
+1491397530 source:c:\users\lenovo\desktop\63016218087\main.cpp
+	<iostream>
+	"Rational.h"
+	"Irrational.h"
+	"Complex.h"
+
+1491397530 c:\users\lenovo\desktop\63016218087\rational.h
+	"Real.h"
+	<iostream>
+
+1491401992 c:\users\lenovo\desktop\63016218087\real.h
+	"Number.h"
+
+1491397530 c:\users\lenovo\desktop\63016218087\irrational.h
+	"Real.h"
+
+1491399528 source:c:\users\lenovo\desktop\63016218087\rational.cpp
+	"Rational.h"
+	<sstream>
+	<iomanip>
+	<cmath>
+
+1491401070 source:c:\users\lenovo\desktop\63016218087\number.cpp
+	"Number.h"
+	<iostream>
+	<cmath>
+
+1491402075 source:c:\users\lenovo\desktop\63016218087\real.cpp
+	"Real.h"
+	<iostream>
+
+1491402921 source:c:\users\lenovo\desktop\63016218087\irrational.cpp
+	"Irrational.h"
+	<iostream>
+	<sstream>
+

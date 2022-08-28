@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490862533 source:c:\users\apple\desktop\121212121\intlist.cpp
+	<iostream>
+	<stdio.h>
+	"IntList.h"
+
+1490719683 c:\users\apple\desktop\121212121\intlist.h
+	<stdio.h>
+
+1490862210 source:c:\users\apple\desktop\121212121\main.cpp
+	<iostream>
+	"IntList.h"
+

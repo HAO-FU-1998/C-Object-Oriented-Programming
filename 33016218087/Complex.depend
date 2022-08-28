@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1489827283 source:c:\users\lxp\desktop\complex\main.cpp
+	<iostream>
+
+1490274998 source:c:\users\lenovo\desktop\33016218087\complex.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	"Complex.h"
+
+1490273084 c:\users\lenovo\desktop\33016218087\complex.h
+	<iostream>
+
+1490274876 source:c:\users\lenovo\desktop\33016218087\main.cpp
+	<iostream>
+	"Complex.h"
+
+1490274878 source:c:\users\lxp\desktop\33016218087\main.cpp
+	<iostream>
+	"Complex.h"
+
+1490460214 c:\users\lxp\desktop\33016218087\complex.h
+	<iostream>
+
+1490460350 source:c:\users\lxp\desktop\33016218087\complex.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	"Complex.h"
+
+1490274878 source:c:\users\lenovo\desktop\33016218087dva\main.cpp
+	<iostream>
+	"Complex.h"
+
+1490460216 c:\users\lenovo\desktop\33016218087dva\complex.h
+	<iostream>
+
+1490540232 source:c:\users\lenovo\desktop\33016218087dva\complex.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	"Complex.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491380516 source:c:\users\lenovo\desktop\53016218087\main.cpp
+	<iostream>
+	<stdexcept>
+	"MyDate.h"
+
+1491381212 c:\users\lenovo\desktop\53016218087\mydate.h
+	<iostream>
+
+1491381322 source:c:\users\lenovo\desktop\53016218087\mydate.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<string>
+	<stdexcept>
+	"MyDate.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489686223 source:c:\users\apple\desktop\mydate      ceshi2\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<cmath>
+	"MyDate.h"
+
+1489686215 c:\users\apple\desktop\mydate      ceshi2\mydate.h
+	<iostream>
+

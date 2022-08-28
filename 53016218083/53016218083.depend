@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491741143 source:c:\users\apple\desktop\53016218083\main.cpp
+	<iostream>
+	"MyDate.h"
+
+1492086855 c:\users\apple\desktop\53016218083\mydate.h
+	<iostream>
+
